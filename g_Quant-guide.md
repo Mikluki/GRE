@@ -2,9 +2,9 @@
 ### B-D method
 if the answers are in the increasing order, you firstly check __B__ then __D__
 - A
-- _B_
+- __B__
 - C
-- _D_
+- __D__
 - E
 
 
@@ -115,9 +115,9 @@ $$ \frac{n!}{k!(n-k!)} $$
 - Property 4: Almost all of the data are within 2 standard deviations of the mean.
 
 #### Tips
-- when there is average manipulation it is prudent to think about the sum:
-    52 average of 10    sum = 520
-    53 average of 9     sum = 477
+- When there is average manipulation it is prudent to think about the sum:
+    52 average of 10 &emsp;   sum = 520
+    53 average of 9  &emsp;   sum = 477
     thrown away 520 - 477 = 43
 
 - Impossible number means pattern:
